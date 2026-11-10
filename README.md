@@ -3,7 +3,7 @@
 I design, build and ship React Native apps, from the first screen to subscriptions and analytics.
 Five of them are live on the App Store and Google Play.
 
-[hamzacakmak833@gmail.com](mailto:hamzacakmak833@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamzacakmakk/)
+[hamzacakmak833@gmail.com](mailto:hamzacakmak833@gmail.com)
 
 ### Selected apps
 
