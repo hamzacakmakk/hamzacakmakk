@@ -1,9 +1,9 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/header-dark.png"><img src="assets/profile/header-light.png" width="846" alt="Hamza Çakmak, mobile app developer. I build React Native apps end to end and ship them to the App Store and Google Play. 5 apps in production."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/intro-dark.png"><img src="assets/profile/intro-light.png" width="846" alt="Hamza Çakmak, mobile app developer. I design, build and ship React Native apps, from the first screen to subscriptions and analytics. Five of them are live on the App Store and Google Play."></picture>
 
 ### Selected apps
 
-<a href="https://apps.apple.com/us/app/nabla-college-math-practice/id6796978565"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/nabla-dark.png"><img src="assets/profile/nabla-light.png" width="419" alt="Nabla: university math practice, on the App Store and Google Play"></picture></a>
-<a href="https://apps.apple.com/us/app/takeover-screen-time-control/id6760352061"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/takeover-dark.png"><img src="assets/profile/takeover-light.png" width="419" alt="Takeover: screen time control, on the App Store and Google Play"></picture></a>
+<a href="https://apps.apple.com/us/app/nabla-college-math-practice/id6796978565"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/nabla-dark.png"><img src="assets/profile/nabla-light.png" width="415" alt="Nabla: university math practice with every answer verified by a computer algebra system"></picture></a>
+<a href="https://apps.apple.com/us/app/takeover-screen-time-control/id6760352061"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/takeover-dark.png"><img src="assets/profile/takeover-light.png" width="415" alt="Takeover: screen time control that locks distracting apps on a schedule or after a daily limit"></picture></a>
 
 <p align="right"><a href="https://apps.apple.com/us/developer/muhammed-hamza-cakmak/id1884048817">+ more</a></p>
 
