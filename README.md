@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/intro-dark-v3.png"><img src="assets/profile/intro-light-v3.png" width="846" alt="Hamza Çakmak, mobile app developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/intro-dark-v4.png"><img src="assets/profile/intro-light-v4.png" width="340" alt="Hamza Çakmak, mobile app developer"></picture>
 
 I design, build and ship React Native apps, from the first screen to subscriptions and analytics.
 Five of them are live on the App Store and Google Play.
@@ -7,8 +7,8 @@ Five of them are live on the App Store and Google Play.
 
 ### Selected apps
 
-<a href="https://apps.apple.com/us/app/nabla-college-math-practice/id6796978565"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/nabla-dark-v3.png"><img src="assets/profile/nabla-light-v3.png" width="408" alt="Nabla: university math practice with every answer verified by a computer algebra system"></picture></a>
-<a href="https://apps.apple.com/us/app/takeover-screen-time-control/id6760352061"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/takeover-dark-v3.png"><img src="assets/profile/takeover-light-v3.png" width="408" alt="Takeover: screen time control that locks distracting apps on a schedule or after a daily limit"></picture></a>
+<a href="https://apps.apple.com/us/app/nabla-college-math-practice/id6796978565"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/nabla-dark-v4.png"><img src="assets/profile/nabla-light-v4.png" width="408" alt="Nabla: university math practice with every answer verified by a computer algebra system"></picture></a>
+<a href="https://apps.apple.com/us/app/takeover-screen-time-control/id6760352061"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/takeover-dark-v4.png"><img src="assets/profile/takeover-light-v4.png" width="408" alt="Takeover: screen time control that locks distracting apps on a schedule or after a daily limit"></picture></a>
 
 <p align="right"><a href="https://apps.apple.com/us/developer/muhammed-hamza-cakmak/id1884048817">+ more</a></p>
 
